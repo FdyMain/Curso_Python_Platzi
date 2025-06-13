@@ -2,7 +2,7 @@ class Robot:
     def __init__(self, id, model):
         self.id = id
         self.model = model
-        self.assigned = False  # Empieza disponible
+        self.assigned = False
 
     def assign(self):
         if self.assigned:
