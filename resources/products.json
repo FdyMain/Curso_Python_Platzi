@@ -62,21 +62,5 @@
         "brand": "Corona",
         "category": "Utils",
         "entry_date": "2025-07-12"
-    },
-    {
-        "name": "Cocina",
-        "price": 75,
-        "quantity": 100,
-        "brand": "Corona",
-        "category": "Utils",
-        "entry_date": "2025-07-12"
-    },
-    {
-        "name": "Cocina",
-        "price": 75,
-        "quantity": 100,
-        "brand": "Corona",
-        "category": "Utils",
-        "entry_date": "2025-07-12"
     }
 ]
